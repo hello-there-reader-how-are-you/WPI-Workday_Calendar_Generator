@@ -11,6 +11,6 @@ You should see a new banner at the top of your webpage, follow the instructions.
 
 
 ## SETUP:
-Ensure you have a userscript runner like [Violentmonkey](https://violentmonkey.github.io/) installed.
+Ensure you have a userscript runner like [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) installed.
 
 Click here → [Add me!](https://raw.githubusercontent.com/hello-there-reader-how-are-you/WPI-Workday_Calendar_Generator/main/Workday_iCal.user.js)
