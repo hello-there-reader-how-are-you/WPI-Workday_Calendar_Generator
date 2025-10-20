@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        WPI Workday Calendar (Banner Input Version)
+// @name        WPI Workday Calendar
 // @namespace   Violentmonkey Scripts
 // @match       *://wd5.myworkday.com/wpi/*
 // @grant       none
 // @require     https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
 // @author      Hello There
-// @description Generates ICS calendars from Workday schedule with banner-based term input
+// @description Generates ICS calendars from Workday schedule
 // ==/UserScript==
 
 const originalSend = XMLHttpRequest.prototype.send;
